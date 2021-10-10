@@ -4,6 +4,8 @@
 
 
 ## 🎯 Aim of this Account is:
+- Learn, Understand new technology, technical, programming concept in short time
+- Provide high quality of content, So Techie people Learn, Understand concept in short🤏 time⌚
 - Interact techie people to latest technology concept
 - Share your knowledge, Experience to the World, Intrested people share their idea, project with me on mail
 - Solved real life technical problem, To Make Human Life Easy
