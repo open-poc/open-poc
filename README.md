@@ -1,7 +1,7 @@
 - 🙋 Hi, I’m Techie Human
-- 👀 I’m interested in Programming World
+- 💡 I’m interested in Programming World
 - 🌱 I’m currently learning Python, GoLang, Django, ... too many things
-- 💞️ I’m looking to collaborate on POC
+- 🧠 I’m looking to collaborate on POC
 - 📫 Reach me open.poc@gmail.com
 
 <!---
